@@ -17,5 +17,5 @@ npm run debug
 ```sh
 NODE_ENV=development
 PORT=3001
-DB_ADDRESS=mongodb://127.0.0.1:27017/yektanet
+DB_ADDRESS=mongodb://127.0.0.1:27017/test-project
 ```
